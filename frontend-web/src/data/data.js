@@ -71,6 +71,14 @@ const members = [
     image: awan_cloud,
   },
   {
+    name: "Achmad Faiz Yudha Ramadhan",
+    major: "Sistem Informasi",
+    batch: "24",
+    instagram: "instagram.com/afaizyr",
+    linkedin: "linkedin.com/in/afaizyr/ ",
+    github: "github.com/FaizZzhue",
+  },
+  {
     name: "Akbar Kurniawan",
     major: "Fisika",
     batch: "23",
