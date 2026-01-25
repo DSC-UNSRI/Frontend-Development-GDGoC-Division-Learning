@@ -6,7 +6,7 @@ const members = [
   {
     name: "M. Rabyndra Janitra Binello",
     major: "Informatics Engineering",
-    batch: "2023",  
+    batch: "2023",
     role: "Core Team",
     github: "ElloRabyndra", // optional
     linkedin: "ello-rabyndra", // optional
@@ -18,5 +18,13 @@ const members = [
     role: "Member",
     github: "Kokoparel",
     linkedin: "farrelaw", // optional
+  },
+  {
+    name: "Duhairillah",
+    major: "Informatics Engineering",
+    batch: "2025",
+    role: "Member",
+    github: "SerenaaaaRN",
+    linkedin: "Duhairillah", // optional
   },
 ];
