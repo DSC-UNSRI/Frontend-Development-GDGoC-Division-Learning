@@ -9,7 +9,7 @@ const members = [
     batch: "2023",
     role: "Core Team",
     github: "ElloRabyndra", // optional
-    linkedin: "ello-rabyndra", // optional
+    linkedin: "ello-rabyndra", 
   },
   {
     name: "Farrel Athaillah Wijaya",
