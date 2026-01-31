@@ -67,4 +67,12 @@ const members = [
     github: "SerenaaaaRN",
     linkedin: "Duhairillah", // optional
   },
+  {
+    name: "Achmad Faiz Yudha Ramadhan",
+    major: "Informatics Systems",
+    batch: "2024",
+    role: "Member",
+    github: "FaizZzhue",
+    linkedin: "afaizyr",
+  },
 ];
